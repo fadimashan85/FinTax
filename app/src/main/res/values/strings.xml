@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tax Me</string>
+    <string name="button">Button</string>
+    <string name="pop_window">Pop window</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">Distance</string>
+    <string name="firebase_email" translatable="false">test@example.com</string>
+    <string name="firebase_password" translatable="false">password</string>
+    <string name="location_permission_denied">Location permissions denied,
+       please enable the permissions to use this app.
+   </string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="no_location">No location available</string>
+    <string name="no_address_found">No address found</string>
+    <string name="loading">Loading…</string>
+    <string name="service_not_available">Service not available</string>
+    <string name="invalid_lat_long_used">Invalid coordinates used</string>
+    <string name="start_tracking_location">Start tracking location</string>
+    <string name="stop_tracking_location">Stop tracking location</string>
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+       functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="TaxMe" />
+    <string name="title_activity_notfication">Notfication</string>
+    <string name="title_activity_car_up">Car_up</string>
+    <string name="choose_commune">Choose commune</string>
+    <string name="houseinfo">"(Buying price:) the price with which the current apartment was bought<br />
+        (Selling Price:) the price with which the current apartment was sold
+        Broker Price: the sum payed to the broker
+        Listing Price: the price that was paid to the listing service On the top boxes, the profit to be declared in  the final declaration
+            will be displayed in green and the total expenses will be displayed in red."</string>
+    <string name="firstLink"> ... <a href="https://www.skatteverket.se/servicelankar/otherlanguages.4.34a801ea1041d54f9e2800025.html">Click here</a></string>
+    <string name="title_activity_info">InfoActivity</string>
+</resources>

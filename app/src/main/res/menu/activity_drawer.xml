@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_House"
+            android:icon="@drawable/ic_house"
+            android:title="House" />
+        <item
+            android:id="@+id/nav_car"
+            android:icon="@drawable/ic_car"
+            android:title="Car" />
+        <item
+            android:id="@+id/nav_salary"
+            android:icon="@drawable/ic_salary"
+            android:title="Salary" />
+        <item
+            android:id="@+id/nav_summary"
+            android:icon="@drawable/ic_summary"
+            android:title="Summary" />
+        <item
+            android:id="@+id/nav_percentage"
+            android:icon="@drawable/ic_percentage_calculator"
+            android:title="Percentage" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_setting"
+            android:title="Setting" />
+
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Information" />
+
+
+    </group>
+</menu>

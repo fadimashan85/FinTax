@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Car"
+    android:background="@android:color/white"
+    >
+
+
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+
+        <EditText
+            android:id="@+id/edit_text_distance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Distance (Km)"
+            android:inputType="numberDecimal"
+            android:textColor="@color/colorA"
+            android:textColorHint="@color/colorA" />
+
+        <Button
+            android:id="@+id/btn_gps"
+            android:layout_width="126dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:background="@drawable/btn_shape"
+            android:text="GPS Auto"
+            android:textColor="@color/colorA" />
+
+
+      <TextView
+          android:id="@+id/text_view_startDate"
+          android:layout_width="126dp"
+          android:layout_height="40dp"
+          android:layout_marginTop="16dp"
+          android:text="Select date"
+          android:gravity="center"
+          android:layout_gravity="center"
+          android:background="@drawable/btn_shape"
+          android:textColor="@color/colorA"
+          android:textAppearance="@android:style/TextAppearance.Medium" />
+
+
+
+      <EditText
+          android:id="@+id/edit_text_origin"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="6dp"
+          android:hint="Origin"
+          android:textColor="@color/colorA"
+          android:textColorHint="@color/colorA"/>
+
+      <EditText
+          android:id="@+id/edit_text_destination"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="6dp"
+          android:hint="Destination"
+          android:textColor="@color/colorA"
+          android:textColorHint="@color/colorA"/>
+
+      <EditText
+          android:id="@+id/edit_text_purpose"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="6dp"
+          android:hint="Purpose"
+          android:textColor="@color/colorA"
+          android:textColorHint="@color/colorA"/>
+
+      <EditText
+          android:id="@+id/edit_text_amount"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="6dp"
+          android:hint="Amount"
+          android:textColor="@color/colorA"
+          android:textColorHint="@color/colorA"/>
+
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_margin="1dp"
+          android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2">
+
+          <Button
+              android:id="@+id/btnSave"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/btn_shape2"
+              android:text="Save"
+              android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2">
+
+          <Button
+              android:id="@+id/btnCancel"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/btn_shape2"
+              android:text="Cancel"
+              android:textColor="@android:color/white" />
+        </RelativeLayout>
+
+
+      </LinearLayout>
+    </LinearLayout>
+  </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:clickable="true">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/close"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_gravity="right"
+                android:background="@drawable/btn_white"
+                android:src="@drawable/ic_close_black_24dp"
+
+
+                />
+
+
+            <TextView
+                android:id="@+id/textvieww"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="1.Tax Department homepage.
+
+
+                This link will refer you to the Tax Department page which provides information in several languages."
+                android:padding="4dp"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/link7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:padding="4dp"
+                android:text="@string/firstLink"
+               />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=
+                    "2. Income Tax Return information"
+                    android:padding="4dp"
+                    android:textSize="20dp"/>
+
+                <TextView
+                    android:id="@+id/link2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="https://www.skatteverket.se/servicelankar/otherlanguages.4.34a801ea1041d54f9e2800025.html"
+                     android:padding="4dp"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="3. Sale of real estate"
+                    android:padding="4dp"
+                    android:textSize="20dp"/>
+
+                <TextView
+                    android:id="@+id/link3"
+                    android:autoLink="web"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="https://www.skatteverket.se/servicelankar/otherlanguages/inenglish/individualsandemployees/declaringtaxesforindividuals/howtofileyourtaxreturn/thecontentsoftheincometaxreturn/saleofrealproperty.4.7be5268414bea064694c7a6.html"
+                    android:padding="4dp"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="4. Tax Table clarifications"
+                     android:padding="4dp"
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:id="@+id/link4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="https://www.skatteverket.se/privat/skatter/arbeteochinkomst/skattetabeller.4.18e1b10334ebe8bc80005221.html#!/start"
+                    android:padding="4dp"
+                    />
+ />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=
+                    "5. Tax Payment clarifications"
+                    android:padding="4dp"
+                    android:textSize="20dp"
+                    />
+
+                <TextView
+                    android:id="@+id/link5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="https://www.skatteverket.se/servicelankar/otherlanguages/inenglish/individualsandemployees/declaringtaxesforindividuals.4.7be5268414bea064694c5df.html"
+                    android:padding="4dp"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

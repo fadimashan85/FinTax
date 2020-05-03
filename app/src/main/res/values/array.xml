@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="commune" >
+        <item>Choose Commune</item>
+        <item>	Ale kommun	</item>
+        <item>	Alingsås kommun	</item>
+        <item>	Alvesta kommun	</item>
+        <item>	Aneby kommun	</item>
+        <item>	Arboga kommun	</item>
+        <item>	Arjeplogs kommun	</item>
+        <item>	Arvidsjaurs kommun	</item>
+        <item>	Arvika kommun	</item>
+        <item>	Askersunds kommun	</item>
+        <item>	Avesta kommun	</item>
+        <item>	Bengtsfors kommun	</item>
+        <item>	Bergs kommun	</item>
+        <item>	Bjurholms kommun	</item>
+        <item>	Bjuvs kommun	</item>
+        <item>	Bodens kommun	</item>
+        <item>	Bollebygds kommun	</item>
+        <item>	Bollnäs kommun	</item>
+        <item>	Borgholms kommun	</item>
+        <item>	Borlänge kommun	</item>
+        <item>	Borås kommun	</item>
+        <item>	Botkyrka kommun	</item>
+        <item>	Boxholms kommun	</item>
+        <item>	Bromölla kommun	</item>
+        <item>	Bräcke kommun	</item>
+        <item>	Burlövs kommun	</item>
+        <item>	Båstad kommun	</item>
+        <item>	Dals-Eds kommun	</item>
+        <item>	Danderyds kommun	</item>
+        <item>	Degerfors kommun	</item>
+        <item>	Dorotea kommun	</item>
+        <item>	Eda kommun	</item>
+        <item>	Ekerö kommun	</item>
+        <item>	Eksjö kommun	</item>
+        <item>	Emmaboda kommun	</item>
+        <item>	Enköpings kommun	</item>
+        <item>	Eskilstuna kommun	</item>
+        <item>	Eslövs kommun	</item>
+        <item>	Essunga kommun	</item>
+        <item>	Fagersta kommun	</item>
+        <item>	Falkenbergs kommun	</item>
+        <item>	Falköpings kommun	</item>
+        <item>	Falu kommun	</item>
+        <item>	Filipstads kommun	</item>
+        <item>	Finspångs kommun	</item>
+        <item>	Flens kommun	</item>
+        <item>	Forshaga kommun	</item>
+        <item>	Färgelanda kommun	</item>
+        <item>	Gagnefs kommun	</item>
+        <item>	Gislaveds kommun	</item>
+        <item>	Gnesta kommun	</item>
+        <item>	Gnosjö kommun	</item>
+        <item>	Gotlands kommun	</item>
+        <item>	Grums kommun	</item>
+        <item>	Grästorps kommun	</item>
+        <item>	Gullspångs kommun	</item>
+        <item>	Gällivare kommun	</item>
+        <item>	Gävle kommun	</item>
+        <item>	Göteborgs kommun	</item>
+        <item>	Götene kommun	</item>
+        <item>	Habo kommun	</item>
+        <item>	Hagfors kommun	</item>
+        <item>	Hallsbergs kommun	</item>
+        <item>	Hallstahammars kommun	</item>
+        <item>	Halmstads kommun	</item>
+        <item>	Hammarö kommun	</item>
+        <item>	Haninge kommun	</item>
+        <item>	Haparanda kommun	</item>
+        <item>	Heby kommun	</item>
+        <item>	Hedemora kommun	</item>
+        <item>	Helsingborgs kommun	</item>
+        <item>	Herrljunga kommun	</item>
+        <item>	Hjo kommun	</item>
+        <item>	Hofors kommun	</item>
+        <item>	Huddinge kommun	</item>
+        <item>	Hudiksvalls kommun	</item>
+        <item>	Hultsfreds kommun	</item>
+        <item>	Hylte kommun	</item>
+        <item>	Håbo kommun	</item>
+        <item>	Hällefors kommun	</item>
+        <item>	Härjedalens kommun	</item>
+        <item>	Härnösands kommun	</item>
+        <item>	Härryda kommun	</item>
+        <item>	Hässleholms kommun	</item>
+        <item>	Höganäs kommun	</item>
+        <item>	Högsby kommun	</item>
+        <item>	Hörby kommun	</item>
+        <item>	Höörs kommun	</item>
+        <item>	Jokkmokks kommun	</item>
+        <item>	Järfälla kommun	</item>
+        <item>	Jönköpings kommun	</item>
+        <item>	Kalix kommun	</item>
+        <item>	Kalmar kommun	</item>
+        <item>	Karlsborgs kommun	</item>
+        <item>	Karlshamns kommun	</item>
+        <item>	Karlskoga kommun	</item>
+        <item>	Karlskrona kommun	</item>
+        <item>	Karlstads kommun	</item>
+        <item>	Katrineholms kommun	</item>
+        <item>	Kils kommun	</item>
+        <item>	Kinda kommun	</item>
+        <item>	Kiruna kommun	</item>
+        <item>	Klippans kommun	</item>
+        <item>	Knivsta kommun	</item>
+        <item>	Kramfors kommun	</item>
+        <item>	Kristianstads kommun	</item>
+        <item>	Kristinehamns kommun	</item>
+        <item>	Krokoms kommun	</item>
+        <item>	Kumla kommun	</item>
+        <item>	Kungsbacka kommun	</item>
+        <item>	Kungsörs kommun	</item>
+        <item>	Kungälvs kommun	</item>
+        <item>	Kävlinge kommun	</item>
+        <item>	Köpings kommun	</item>
+        <item>	Laholms kommun	</item>
+        <item>	Landskrona kommun	</item>
+        <item>	Laxå kommun	</item>
+        <item>	Lekebergs kommun	</item>
+        <item>	Leksands kommun	</item>
+        <item>	Lerums kommun	</item>
+        <item>	Lessebo kommun	</item>
+        <item>	Lidingö kommun	</item>
+        <item>	Lidköpings kommun	</item>
+        <item>	Lilla-Edets kommun	</item>
+        <item>	Lindesbergs kommun	</item>
+        <item>	Linköpings kommun	</item>
+        <item>	Ljungby kommun	</item>
+        <item>	Ljusdals kommun	</item>
+        <item>	Ljusnarsbergs kommun	</item>
+        <item>	Lomma kommun	</item>
+        <item>	Ludvika kommun	</item>
+        <item>	Luleå kommun	</item>
+        <item>	Lunds kommun	</item>
+        <item>	Lycksele kommun	</item>
+        <item>	Lysekils kommun	</item>
+        <item>	Malmö kommun	</item>
+        <item>	Malung-Sälens kommun	</item>
+        <item>	Malå kommun	</item>
+        <item>	Mariestads kommun	</item>
+        <item>	Markaryds kommun	</item>
+        <item>	Marks kommun	</item>
+        <item>	Melleruds kommun	</item>
+        <item>	Mjölby kommun	</item>
+        <item>	Mora kommun	</item>
+        <item>	Motala kommun	</item>
+        <item>	Mullsjö kommun	</item>
+        <item>	Munkedals kommun	</item>
+        <item>	Munkfors kommun	</item>
+        <item>	Mölndals kommun	</item>
+        <item>	Mönsterås kommun	</item>
+        <item>	Mörbylånga kommun	</item>
+        <item>	Nacka kommun	</item>
+        <item>	Nora kommun	</item>
+        <item>	Norbergs kommun	</item>
+        <item>	Nordanstigs kommun	</item>
+        <item>	Nordmalings kommun	</item>
+        <item>	Norrköpings kommun	</item>
+        <item>	Norrtälje kommun	</item>
+        <item>	Norsjö kommun	</item>
+        <item>	Nybro kommun	</item>
+        <item>	Nykvarns kommun	</item>
+        <item>	Nyköpings kommun	</item>
+        <item>	Nynäshamns kommun	</item>
+        <item>	Nässjö kommun	</item>
+        <item>	Ockelbo kommun	</item>
+        <item>	Olofströms kommun	</item>
+        <item>	Orsa kommun	</item>
+        <item>	Orust kommun	</item>
+        <item>	Osby kommun	</item>
+        <item>	Oskarshamns kommun	</item>
+        <item>	Ovanåkers kommun	</item>
+        <item>	Oxelösunds kommun	</item>
+        <item>	Pajala kommun	</item>
+        <item>	Partille kommun	</item>
+        <item>	Perstorps kommun	</item>
+        <item>	Piteå kommun	</item>
+        <item>	Ragunda kommun	</item>
+        <item>	Robertsfors kommun	</item>
+        <item>	Ronneby kommun	</item>
+        <item>	Rättviks kommun	</item>
+        <item>	Sala kommun	</item>
+        <item>	Salems kommun	</item>
+        <item>	Sandvikens kommun	</item>
+        <item>	Sigtuna kommun	</item>
+        <item>	Simrishamns kommun	</item>
+        <item>	Sjöbo kommun	</item>
+        <item>	Skara kommun	</item>
+        <item>	Skellefteå kommun	</item>
+        <item>	Skinnskattebergs kommun	</item>
+        <item>	Skurups kommun	</item>
+        <item>	Skövde kommun	</item>
+        <item>	Smedjebackens kommun	</item>
+        <item>	Sollefteå kommun	</item>
+        <item>	Sollentuna kommun	</item>
+        <item>	Solna kommun	</item>
+        <item>	Sorsele kommun	</item>
+        <item>	Sotenäs kommun	</item>
+        <item>	Staffanstorps kommun	</item>
+        <item>	Stenungsunds kommun	</item>
+        <item>	Stockholms kommun	</item>
+        <item>	Storfors kommun	</item>
+        <item>	Storumans kommun	</item>
+        <item>	Strängnäs kommun	</item>
+        <item>	Strömstads kommun	</item>
+        <item>	Strömsunds kommun	</item>
+        <item>	Sundbybergs kommun	</item>
+        <item>	Sundsvalls kommun	</item>
+        <item>	Sunne kommun	</item>
+        <item>	Surahammars kommun	</item>
+        <item>	Svalövs kommun	</item>
+        <item>	Svedala kommun	</item>
+        <item>	Svenljunga kommun	</item>
+        <item>	Säffle kommun	</item>
+        <item>	Säters kommun	</item>
+        <item>	Sävsjö kommun	</item>
+        <item>	Söderhamns kommun	</item>
+        <item>	Söderköpings kommun	</item>
+        <item>	Södertälje kommun	</item>
+        <item>	Sölvesborgs kommun	</item>
+        <item>	Tanums kommun	</item>
+        <item>	Tibro kommun	</item>
+        <item>	Tidaholms kommun	</item>
+        <item>	Tierps kommun	</item>
+        <item>	Timrå kommun	</item>
+        <item>	Tingsryds kommun	</item>
+        <item>	Tjörns kommun	</item>
+        <item>	Tomelilla kommun	</item>
+        <item>	Torsby kommun	</item>
+        <item>	Torsås kommun	</item>
+        <item>	Tranemo kommun	</item>
+        <item>	Tranås kommun	</item>
+        <item>	Trelleborgs kommun	</item>
+        <item>	Trollhättans kommun	</item>
+        <item>	Trosa kommun	</item>
+        <item>	Tyresö kommun	</item>
+        <item>	Täby kommun	</item>
+        <item>	Töreboda kommun	</item>
+        <item>	Uddevalla kommun	</item>
+        <item>	Ulricehamns kommun	</item>
+        <item>	Umeå kommun	</item>
+        <item>	Upplands Väsby kommun	</item>
+        <item>	Upplands-Bro kommun	</item>
+        <item>	Uppsala kommun	</item>
+        <item>	Uppvidinge kommun	</item>
+        <item>	Vadstena kommun	</item>
+        <item>	Vaggeryds kommun	</item>
+        <item>	Valdemarsviks kommun	</item>
+        <item>	Vallentuna kommun	</item>
+        <item>	Vansbro kommun	</item>
+        <item>	Vara kommun	</item>
+        <item>	Varbergs kommun	</item>
+        <item>	Vaxholms kommun	</item>
+        <item>	Vellinge kommun	</item>
+        <item>	Vetlanda kommun	</item>
+        <item>	Vilhelmina kommun	</item>
+        <item>	Vimmerby kommun	</item>
+        <item>	Vindelns kommun	</item>
+        <item>	Vingåkers kommun	</item>
+        <item>	Vårgårda kommun	</item>
+        <item>	Vänersborgs kommun	</item>
+        <item>	Vännäs kommun	</item>
+        <item>	Värmdö kommun	</item>
+        <item>	Värnamo kommun	</item>
+        <item>	Västerviks kommun	</item>
+        <item>	Västerås kommun	</item>
+        <item>	Växjö kommun	</item>
+        <item>	Ydre kommun	</item>
+        <item>	Ystad kommun	</item>
+        <item>	Åmåls kommun	</item>
+        <item>	Ånge kommun	</item>
+        <item>	Åre kommun	</item>
+        <item>	Årjängs kommun	</item>
+        <item>	Åsele kommun	</item>
+        <item>	Åstorps kommun	</item>
+        <item>	Åtvidabergs kommun	</item>
+        <item>	Älmhults kommun	</item>
+        <item>	Älvdalens kommun	</item>
+        <item>	Älvkarleby kommun	</item>
+        <item>	Älvsbyns kommun	</item>
+        <item>	Ängelholms kommun	</item>
+        <item>	Ö Göinge kommun	</item>
+        <item>	Öckerö kommun	</item>
+        <item>	Ödeshögs kommun	</item>
+        <item>	Örebro kommun	</item>
+        <item>	Örkelljunga kommun	</item>
+        <item>	Örnsköldsviks kommun	</item>
+        <item>	Östersunds kommun	</item>
+        <item>	Österåkers kommun	</item>
+        <item>	Östhammars kommun	</item>
+        <item>	Överkalix kommun	</item>
+        <item>	Övertorneå kommun	</item>
+
+    </array>
+
+    <array name="percentage">
+        <item>0.0</item>
+        <item>	33.35	</item>
+        <item>	32.84	</item>
+        <item>	33.42	</item>
+        <item>	33.85	</item>
+        <item>	33.29	</item>
+        <item>	34.84	</item>
+        <item>	34.14	</item>
+        <item>	32.70	</item>
+        <item>	33.50	</item>
+        <item>	33.60	</item>
+        <item>	34.40	</item>
+        <item>	33.72	</item>
+        <item>	34.45	</item>
+        <item>	32.17	</item>
+        <item>	33.94	</item>
+        <item>	33.07	</item>
+        <item>	33.37	</item>
+        <item>	32.95	</item>
+        <item>	34.05	</item>
+        <item>	32.79	</item>
+        <item>	32.23	</item>
+        <item>	32.52	</item>
+        <item>	32.94	</item>
+        <item>	34.59	</item>
+        <item>	31.27	</item>
+        <item>	31.41	</item>
+        <item>	34.69	</item>
+        <item>	29.63	</item>
+        <item>	33.85	</item>
+        <item>	35.15	</item>
+        <item>	33.95	</item>
+        <item>	31.33	</item>
+        <item>	34.02	</item>
+        <item>	33.08	</item>
+        <item>	33.05	</item>
+        <item>	32.85	</item>
+        <item>	31.72	</item>
+        <item>	33.05	</item>
+        <item>	32.99	</item>
+        <item>	31.92	</item>
+        <item>	33.08	</item>
+        <item>	33.70	</item>
+        <item>	33.20	</item>
+        <item>	32.85	</item>
+        <item>	33.10	</item>
+        <item>	33.55	</item>
+        <item>	33.74	</item>
+        <item>	34.17	</item>
+        <item>	33.75	</item>
+        <item>	32.95	</item>
+        <item>	34.00	</item>
+        <item>	33.60	</item>
+        <item>	33.70	</item>
+        <item>	33.05	</item>
+        <item>	33.97	</item>
+        <item>	33.89	</item>
+        <item>	33.77	</item>
+        <item>	32.60	</item>
+        <item>	33.60	</item>
+        <item>	33.93	</item>
+        <item>	33.70	</item>
+        <item>	33.10	</item>
+        <item>	32.69	</item>
+        <item>	31.80	</item>
+        <item>	33.30	</item>
+        <item>	31.76	</item>
+        <item>	33.84	</item>
+        <item>	34.21	</item>
+        <item>	33.80	</item>
+        <item>	31.39	</item>
+        <item>	33.42	</item>
+        <item>	33.05	</item>
+        <item>	34.37	</item>
+        <item>	31.95	</item>
+        <item>	33.12	</item>
+        <item>	33.28	</item>
+        <item>	32.27	</item>
+        <item>	33.05	</item>
+        <item>	33.60	</item>
+        <item>	33.67	</item>
+        <item>	34.63	</item>
+        <item>	32.10	</item>
+        <item>	32.14	</item>
+        <item>	30.91	</item>
+        <item>	33.08	</item>
+        <item>	32.26	</item>
+        <item>	33.06	</item>
+        <item>	34.29	</item>
+        <item>	31.23	</item>
+        <item>	33.40	</item>
+        <item>	33.89	</item>
+        <item>	33.18	</item>
+        <item>	32.80	</item>
+        <item>	33.80	</item>
+        <item>	33.55	</item>
+        <item>	33.69	</item>
+        <item>	32.95	</item>
+        <item>	32.95	</item>
+        <item>	33.55	</item>
+        <item>	31.65	</item>
+        <item>	34.39	</item>
+        <item>	31.93	</item>
+        <item>	33.32	</item>
+        <item>	34.43	</item>
+        <item>	32.64	</item>
+        <item>	33.65	</item>
+        <item>	33.37	</item>
+        <item>	33.15	</item>
+        <item>	32.15	</item>
+        <item>	32.91	</item>
+        <item>	32.92	</item>
+        <item>	29.69	</item>
+        <item>	33.04	</item>
+        <item>	31.40	</item>
+        <item>	31.42	</item>
+        <item>	33.73	</item>
+        <item>	33.98	</item>
+        <item>	33.45	</item>
+        <item>	32.13	</item>
+        <item>	33.81	</item>
+        <item>	30.37	</item>
+        <item>	32.74	</item>
+        <item>	33.85	</item>
+        <item>	33.85	</item>
+        <item>	30.90	</item>
+        <item>	33.07	</item>
+        <item>	33.87	</item>
+        <item>	32.57	</item>
+        <item>	30.82	</item>
+        <item>	33.70	</item>
+        <item>	33.84	</item>
+        <item>	32.42	</item>
+        <item>	34.40	</item>
+        <item>	33.94	</item>
+        <item>	32.42	</item>
+        <item>	34.20	</item>
+        <item>	34.70	</item>
+        <item>	32.74	</item>
+        <item>	33.31	</item>
+        <item>	32.69	</item>
+        <item>	34.08	</item>
+        <item>	32.60	</item>
+        <item>	33.97	</item>
+        <item>	32.40	</item>
+        <item>	34.10	</item>
+        <item>	35.11	</item>
+        <item>	33.70	</item>
+        <item>	31.74	</item>
+        <item>	32.78	</item>
+        <item>	32.78	</item>
+        <item>	30.51	</item>
+        <item>	33.80	</item>
+        <item>	33.54	</item>
+        <item>	34.02	</item>
+        <item>	34.60	</item>
+        <item>	32.45	</item>
+        <item>	31.80	</item>
+        <item>	34.70	</item>
+        <item>	33.70	</item>
+        <item>	32.05	</item>
+        <item>	32.25	</item>
+        <item>	31.93	</item>
+        <item>	33.95	</item>
+        <item>	34.27	</item>
+        <item>	33.75	</item>
+        <item>	34.05	</item>
+        <item>	34.84	</item>
+        <item>	33.44	</item>
+        <item>	33.63	</item>
+        <item>	33.37	</item>
+        <item>	33.05	</item>
+        <item>	34.84	</item>
+        <item>	31.44	</item>
+        <item>	31.99	</item>
+        <item>	33.59	</item>
+        <item>	34.42	</item>
+        <item>	34.45	</item>
+        <item>	33.95	</item>
+        <item>	33.45	</item>
+        <item>	33.19	</item>
+        <item>	31.75	</item>
+        <item>	33.12	</item>
+        <item>	32.08	</item>
+        <item>	31.69	</item>
+        <item>	32.10	</item>
+        <item>	32.58	</item>
+        <item>	33.95	</item>
+        <item>	33.39	</item>
+        <item>	31.60	</item>
+        <item>	32.34	</item>
+        <item>	34.09	</item>
+        <item>	34.68	</item>
+        <item>	30.20	</item>
+        <item>	29.20	</item>
+        <item>	34.95	</item>
+        <item>	33.47	</item>
+        <item>	30.72	</item>
+        <item>	33.12	</item>
+        <item>	29.82	</item>
+        <item>	33.70	</item>
+        <item>	34.45	</item>
+        <item>	32.50	</item>
+        <item>	33.39	</item>
+        <item>	34.42	</item>
+        <item>	30.98	</item>
+        <item>	33.88	</item>
+        <item>	33.35	</item>
+        <item>	33.19	</item>
+        <item>	31.92	</item>
+        <item>	31.42	</item>
+        <item>	33.83	</item>
+        <item>	33.20	</item>
+        <item>	33.95	</item>
+        <item>	33.68	</item>
+        <item>	33.17	</item>
+        <item>	31.88	</item>
+        <item>	32.23	</item>
+        <item>	33.86	</item>
+        <item>	33.04	</item>
+        <item>	32.69	</item>
+        <item>	33.55	</item>
+        <item>	33.00	</item>
+        <item>	33.93	</item>
+        <item>	33.07	</item>
+        <item>	33.19	</item>
+        <item>	31.79	</item>
+        <item>	33.70	</item>
+        <item>	32.80	</item>
+        <item>	32.98	</item>
+        <item>	33.77	</item>
+        <item>	31.78	</item>
+        <item>	33.04	</item>
+        <item>	32.43	</item>
+        <item>	32.03	</item>
+        <item>	29.63	</item>
+        <item>	32.70	</item>
+        <item>	33.64	</item>
+        <item>	32.53	</item>
+        <item>	34.15	</item>
+        <item>	31.50	</item>
+        <item>	31.68	</item>
+        <item>	32.85	</item>
+        <item>	33.61	</item>
+        <item>	33.50	</item>
+        <item>	33.25	</item>
+        <item>	33.18	</item>
+        <item>	31.08	</item>
+        <item>	33.93	</item>
+        <item>	33.25	</item>
+        <item>	31.15	</item>
+        <item>	31.86	</item>
+        <item>	29.68	</item>
+        <item>	33.77	</item>
+        <item>	34.75	</item>
+        <item>	33.73	</item>
+        <item>	34.95	</item>
+        <item>	33.50	</item>
+        <item>	32.69	</item>
+        <item>	33.69	</item>
+        <item>	34.95	</item>
+        <item>	31.26	</item>
+        <item>	33.28	</item>
+        <item>	32.53	</item>
+        <item>	31.24	</item>
+        <item>	32.19	</item>
+        <item>	32.65	</item>
+        <item>	31.29	</item>
+        <item>	33.94	</item>
+        <item>	34.62	</item>
+        <item>	33.42	</item>
+        <item>	33.65	</item>
+        <item>	34.45	</item>
+        <item>	31.47	</item>
+        <item>	32.65	</item>
+        <item>	32.96	</item>
+        <item>	34.42	</item>
+        <item>	34.40	</item>
+        <item>	33.79	</item>
+        <item>	31.67	</item>
+        <item>	32.17	</item>
+        <item>	32.69	</item>
+        <item>	32.30	</item>
+        <item>	32.90	</item>
+        <item>	30.24	</item>
+        <item>	33.73	</item>
+        <item>	33.22	</item>
+        <item>	29.18	</item>
+        <item>	33.40	</item>
+        <item>	34.14	</item>
+        <item>	33.09	</item>
+    </array>
+</resources>

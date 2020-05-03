@@ -1,0 +1,61 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/forgetpass"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Setting"
+        android:textColor="#000"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textSize="16sp"
+        android:padding="10dp"/>
+
+
+    <Button
+        android:id="@+id/change_password_button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/btn_shape"
+        android:text="Change Password"
+        android:shadowColor="#ddd"
+        android:shadowRadius="40"
+        android:textColor="#070707" />
+
+
+    <Button
+        android:id="@+id/change_email_button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/btn_shape"
+        android:text="Change Email"
+        android:shadowColor="#ddd"
+        android:shadowRadius="40"
+        android:textColor="#070707" />
+
+
+    <Button
+        android:id="@+id/sign_out_button"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:background="@drawable/btn_shape"
+        android:text="Sign Out"
+        android:shadowColor="#ddd"
+        android:shadowRadius="40"
+        android:textColor="#070707" />
+
+
+</LinearLayout>
+

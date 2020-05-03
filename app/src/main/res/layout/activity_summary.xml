@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Summary"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:id="@+id/frameLayout"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.8">
+
+        </FrameLayout>
+
+
+        <LinearLayout
+            android:layout_width="350dp"
+            android:layout_height="100dp"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Tax Due"
+                android:textColor="@color/colorA"
+                android:textSize="32sp"
+                android:textStyle="bold" />
+
+
+            <TextView
+
+                android:id="@+id/btn_total_due"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/colorA"
+                android:gravity="center"
+                android:textSize="23sp" />
+
+
+        </LinearLayout>
+
+
+
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.4"
+                android:paddingLeft="15dp"
+                android:text="Salary"
+                android:textColor="@color/colorA"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:id="@+id/btn_total_salary"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|end"
+                android:paddingRight="15dp"
+                android:textColor="@color/colorA"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.4"
+                android:gravity="center|start"
+                android:paddingLeft="15dp"
+                android:text="Total Tax"
+                android:textColor="@color/colorA"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:id="@+id/btn_total_tax"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center_horizontal|end"
+                android:paddingRight="15dp"
+                android:textColor="@color/colorA"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.4"
+                android:gravity="center|start"
+                android:paddingLeft="15dp"
+                android:text="Total Paid"
+                android:textColor="@color/colorA"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:id="@+id/btn_tax_paid"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/colorA"
+                android:gravity="center_horizontal|end"
+                android:paddingRight="15dp"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1.4"
+                android:gravity="center|start"
+                android:paddingLeft="15dp"
+                android:textColor="@color/colorA"
+                android:text="Tax Rebate"
+                android:textSize="14dp"
+                android:textStyle="bold" />
+
+            <TextView
+
+                android:id="@+id/btn_total_rebate"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/colorA"
+                android:gravity="center_horizontal|end"
+                android:paddingRight="15dp"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.4"
+                android:gravity="center"
+                android:textColor="@color/colorA"
+                android:paddingRight="30dp"
+                android:text="Car"
+                android:textSize="18dp" />
+
+            <TextView
+
+                android:id="@+id/btn_rebate_car"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/colorA"
+                android:gravity="clip_horizontal|end"
+                android:paddingRight="15dp"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+
+                android:id="@+id/btn_rebate_house"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:textColor="@color/colorA"
+                android:gravity="center_horizontal|end"
+                android:paddingRight="15dp"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
